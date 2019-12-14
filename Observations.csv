@@ -1,0 +1,176 @@
+"Tijdstempel","Participant nummer (bijv Virginia-01)","Laat de participant een 3-gangen menu samenstellen","Volgorde van systemen","Observaties"
+"2019/12/05 12:53:47 p.m. CET","Karen-01","Systeem A:
+- Carpacciorolletjes met rode port saus
+- Hertenbiefstuk met cranberry compote
+- Irish coffee
+
+Systeem B:
+- Kippenpastei
+- Polenta lasagne bolognese
+- Kersencakejes","Eerst systeem A (zonder sliders), dan systeem B (met sliders)","Queries:
+- carpaccio
+- hertenbiefstuk
+- irish coffee
+
+- pastei, checkbox voorgerecht, rating 4
+- lasagne bolognese, checkbox hoofdgerecht, rating 4
+- checkbox nagerecht, rating 4"
+"2019/12/07 5:01:54 p.m. CET","Karen-02","Systeem B:
+- auberginerolletjes met geitenkaas
+- mexicaanse stoof met zwarte bonen
+- bitterkoekjespudding met espressosiroop
+
+Systeem A:
+- Melanzane van Patricia Fusco
+- gnocchi met gerookte zalm en sperziebonen
+- lactosevrije chocoladecake","Eerst systeem B (met sliders), dan systeem A (zonder sliders)","- query aubergine, checkbox voorgerecht
+- checkbox hoofdgerecht, query stoof
+- query koffie, checkbox nagerecht
+
+- query aubergine
+- query zalm pasta
+- query chocolade"
+"2019/12/09 10:48:51 p.m. CET","Virginia-01","Systeem B
+Voorgerecht: Q - Carpaccio
+Hoofdgerecht: Q - spinazie
+Nagerecht: Q1 - chocolade lava cake (0 resultaten), Q2 - chocolade
+
+Systeem A
+Voorgerecht: Q - champignonsoep
+Hoofdgerecht: Q - ovengroenten
+Nagerecht: Q - baklava","Eerst systeem B (met sliders), dan systeem A (zonder sliders)","Systeem B
+- Gebruikte sliders: Bereidingstijd, Gang, Dieet.
+- Bereidingstijd -> onduidelijk of dit een minimum of maximum is
+- Vegetarische checkbox werkt niet helemaal, want vega recepten verdwijnen na aanvinken van de checkbox.
+
+Systeem A
+- Duurde langer om recepten op te zoeken in systeem A dan in systeem B. Er werd meer tijd besteed om tags als ""vega"" in de beschrijving te zoeken en er waren meer zoekresultaten.
+- Voor ""baklava"" kwamen er twee recepten naar voren met precies dezelfde titel, maar andere beschrijvingen en ingrediënten
+
+Na experiment
+- Systeem B bevatte iets teveel sliders. Was leuk maar niet nodig. De chechboxes werden meer gebruikt dan de sliders."
+"2019/12/09 10:58:51 p.m. CET","Virginia-02","Systeem A
+Voorgerecht: Q - wortelsoep
+Hoofdgerecht: Q - groente lasagne -> gaf veel resultaten
+Nagerecht: Q - toetje
+
+Systeem B
+Voorgerecht: Q - soep
+Hoofdgerecht: Q - tonijnsteak
+Nagerecht: Q - chocolade mandarijn","Eerst systeem A (zonder sliders), dan systeem B (met sliders)","Systeem A
+- Enter knop doet niets, niet zo intuïtief.
+- Het is moeilijk om te zien of een recept vega is of niet.
+- Spelfouten worden niet gecorrigeerd.
+- Het is niet logisch om te zien dat je kan scrollen.
+- Een plaatje van het gerecht mist.
+
+Systeem B
+- Gebruikte sliders: Dieet, Gang, Bereidingstijd.
+- Top om de ""vega"" optie aan te kunnen klikken.
+- De slider ""breidingstijd"" is een optie, maar in het getoonde recept wordt de bereidingstijd niet aangegeven.
+- Onduidelijk of de sliders minima of maxima aangeven.
+- Leuk gedrag, alleen boxes aanvinken en dan zoeken op een lege query.
+- Sliders waren leuk om te zien, maar niet echt logisch om te gebruiken als je niet een fitboy bent.
+- Het is mogelijk om in de display van een recept te typen."
+"2019/12/09 11:06:38 p.m. CET","Virginia-03","Systeem B
+Voorgerecht: Q - salade
+Hoofdgerecht: Q - bloemkool
+Nagerecht: Q - fruit
+
+Systeem A
+Hoofdgerecht: Q - courgette
+Bijgerecht: Q - rijst
+Nagerecht Q - ijs","Eerst systeem B (met sliders), dan systeem A (zonder sliders)","Systeem B:
+- Gebruikte sliders: bereidingstijd, gang, kcal, dieet.
+- Zijn de knoppen minima of maximima?
+
+Systeem A
+- Query ""ijs"" gaf ook resultaten met ingrediënten als ""radijs"" terug.
+- Het is logisch dat je bij veel resultaten naar beneden moeten scrollen om de rest te zien, ook al is er geen zichtbare scrollbalk."
+"2019/12/12 4:35:04 p.m. CET","Karen-03","Systeem A:
+- maleisische kippensoep
+- hertenbiefstuk in rode port saus
+- caribische tiramisu
+
+Systeem B:
+- pittige ossenstaartsoep met paddenstoelen
+- kalfsvlees met dragon-uiensaus
+- gluhwein sorbetijs","Eerst systeem A (zonder sliders), dan systeem B (met sliders)","- query soep
+- query biefstuk
+- query tiramisu
+
+- query soep, checkbox voorgerecht
+- query biefstuk, checkbox hoofdgerecht
+- query sorbet, checkbox nagerecht"
+"2019/12/13 8:37:31 p.m. CET","Jetske-01","Voor: carpaccio
+Hoofd: AVG
+Na: tiramisu","Eerst systeem A (zonder sliders), dan systeem B (met sliders)","A: 
+Carpaccio van tomaat en parmezaan en pijnboompitten
+Pastaovenschoteltje met paprikasaus en broccoli
+Zomerse sinaasappel-aardbeitiramisu
+
+B:
+Paprika-tomatensoep
+Napolitaanse pasta
+Herfstige tiramisu met mandarijnen
+
+Observatie:
+bij ingredienten voor tiramisuu stond tiramisu
+Tweede beter: leuk dat je kcal of vet kan aangeven als je op dieet bent"
+"2019/12/13 8:51:16 p.m. CET","Jetske-02","Voor: salade, Hoofd: Curry, Na: yoghurt ","Eerst systeem B (met sliders), dan systeem A (zonder sliders)","A:
+Meloensalade met geitenkaas
+Pascale Naessens halloumi met curry en komijnsalade
+Yoghurthangop met gegrilde perzik
+
+B:
+Bietensalade met perendressing
+Eiercurry met broccoli en rijst
+Bevroren frambozen'fool'
+
+OBservatie:
+tickbox heel handig voor vegetarisch makkelijk"
+"2019/12/13 9:10:23 p.m. CET","Jetske-03","Tomatensoepje, risotto en chocolade brownie.","Eerst systeem A (zonder sliders), dan systeem B (met sliders)","a: 
+Romige tomatensoep
+Champignonrisotto met port salut en rucola
+Brownietaart met mascarpone rood fruit
+
+b:
+paprika tomatensoep
+met risotto gevulde portobellos
+brownies blondies
+
+Observaties:
+vind het fijn om aantal personen te zien, zou het fijn vinden om een enter te kunnen gebruiken ipv klikken op de knop. Stond per ongeluk nog op voorgerecht bij verder zoeken. "
+"2019/12/14 12:51:12 p.m. CET","Virginia-04","Systeem A
+Voorgerecht: Q - pastinaak -> pastinaaksoep met kastanje champignons
+Hoofdgerecht: Q - ovenschotel -> ovenschotel met chorizo
+Nagerecht: Q - tiramisu -> vegan tiramisu
+
+Systeem B
+Voorgerecht: Q - leeg + gang checkbox en rating 5 -> pittige fall pompoensoep
+Hoofdgerecht: Q - leeg + gang en rating 5 -> venkelrisotto met gehakte venkel-tijm worstjes
+Nagerecht: Q - leeg + gang en rating 5 -> camembert uit de oven","Eerst systeem A (zonder sliders), dan systeem B (met sliders)","- Het is niet echt intuïtief, omdat je geen ""enter"" knop kunt gebruiken
+
+Systeem B:
+- Waarom is er een rating van 0 mogelijk? Wat betekent het? Kan zich niet bedenken waarom iemand een rating van 0 wil kiezen."
+"2019/12/14 1:02:06 p.m. CET","Virginia-05","Systeem B
+Voorgerecht: Q - uiensoep -> kaasbrood met uiensoep
+Hoofdgerecht: Q - eendenborstfilet + gang checkbox + 15g eiwit slider -> eendenborstfilet met pruimensaus
+Nagerecht: Q - tarte tatin -> tarte tatin met peer en pistache
+
+Systeem A
+Voorgerecht: Q - nacho -> pittige bonensoep
+Hoofdgerecht: Q - taco -> Mexicaanse taco's met frisse tomatensalsa
+Nagerecht: Q - tequila -> tequila sunset","Eerst systeem B (met sliders), dan systeem A (zonder sliders)","Systeem B:
+- Niet alle sliders voegen wat toe, eigenlijk alleen de checkboxes"
+"2019/12/14 1:10:13 p.m. CET","Virginia-06","Systeem A
+Voorgerecht: Q - pompoen -> pompoensoep
+Hoofdgerecht: Q - hert -> hertenbiefstuk met paddenstoelen en pastinaakpuree
+Nagerecht: Q - chocolde -> chocoladebrownies
+
+Systeem B
+Voorgerecht: Q - rode biet + gang checkbox -> bietensalade met geitenkaas en croutons
+Hoofdgerecht: Q - gehakt + gang checkbox -> gehaktballetjes met komkommersalade
+Nagerecht: Q - cream + gang checkbox -> kokosijs","Eerst systeem A (zonder sliders), dan systeem B (met sliders)","Systeem B:
+- De sliders zijn niet erg logisch om te gebruiken
+- Soms worden zoekresultaten getoond die soort 'out of the scope zijn' als met de ""cream"" en ""kokosijs"", maar wel op een goede manier omdat het leuke suggesties geeft."
