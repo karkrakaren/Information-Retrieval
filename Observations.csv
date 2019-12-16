@@ -174,3 +174,32 @@ Hoofdgerecht: Q - gehakt + gang checkbox -> gehaktballetjes met komkommersalade
 Nagerecht: Q - cream + gang checkbox -> kokosijs","Eerst systeem A (zonder sliders), dan systeem B (met sliders)","Systeem B:
 - De sliders zijn niet erg logisch om te gebruiken
 - Soms worden zoekresultaten getoond die soort 'out of the scope zijn' als met de ""cream"" en ""kokosijs"", maar wel op een goede manier omdat het leuke suggesties geeft."
+"2019/12/15 7:37:13 p.m. CET","Jetske-04","voor: salade. Hoofd: iets met kip. Na: chocola","Eerst systeem B (met sliders), dan systeem A (zonder sliders)","A:
+Herfstsalade met rodekool
+Mexicaanse wraps met kip, kidneybonn en paprika
+Chocolade-sandwich
+
+B:
+Herfstsalade met rodekool
+Wraps met kerriekip
+Witte eilandjes
+
+Oberservaties:
+Wil bereidingstijd, kcal en foto zien bij recepten
+Wil een vinkje om recept op te slaan
+Rode kool werd gevonden als rode peper en zuurkool"
+"2019/12/15 8:01:50 p.m. CET","Jetske-05","voor: erwtensoep
+Hoofd: asperges
+Na: vanille ijs","Eerst systeem A (zonder sliders), dan systeem B (met sliders)","A:
+Erwtensoep stap-voor-stap
+Asperges met kaas, tomaat en beenham
+Tropische milkshake
+
+B:
+Tuinerwtensoep met geroosterde cherrytomaten
+Asperges met kaas, tomaat en beenham
+Warm winterfruit in kaneelroom
+
+Observaties:
+Bij meerdere recepten gevonden, in sliders en checkboxen terugkoppelen waar die allemaal aan voldoet. Dus soort terugkoppeling. Of vergelijk knop zoals op elektronicawebsites. 
+Ook optie om in te typen ""geen gember"""
